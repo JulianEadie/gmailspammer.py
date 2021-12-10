@@ -22,6 +22,6 @@ receiver_emailEntered.grid(column = 0, row = 1)
                   
 
 button = ttk.Button(window, text = "Enter", command = Enterpassword)
-button.grid = (column = 0, row = 1)
+button.grid(column = 0, row = 1)
                   
 window.mainloop()                  
