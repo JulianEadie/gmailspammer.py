@@ -4,9 +4,9 @@ import spammer
 def SendEmail(message)
     smtp_server = "smtp.gmail.com"
     port = "586"
-    sender_email = ""
-    password = ""
-    receiver_email""
+    sender_email = import email.py
+    password = import password.py
+    receiver_email = import receiver_email.py
     
     context = ssl.creat_default_context()
     
