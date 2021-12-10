@@ -4,7 +4,7 @@ from tkinter import ttk
 
 window = tk.Tk()
 
-window.tile("Python Tkinter Text Box")
+window.title("Python Tkinter Text Box")
 window.minsize(600, 400)
 
 def Enteremail():
