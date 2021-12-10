@@ -1,0 +1,15 @@
+To install python in termux
+
+1. pkg update && pkg upgrade
+
+2. pkg install python
+
+3. pkg install python2
+
+4. pip install 
+
+5. pip install --upgrade pip
+
+6. pip -v
+
+7. pip install tk
