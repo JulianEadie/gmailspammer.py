@@ -1,4 +1,4 @@
-To install python in termux
+To install tkinter in termux
 
 1. pkg update && pkg upgrade
 
