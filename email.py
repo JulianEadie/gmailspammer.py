@@ -16,7 +16,7 @@ label.grid(column = 0, row = 0)
 
 
 
-email= tk.StringVar()
+email = tk.StringVar()
 emailEntered = ttk.Entry(window, width =15, textvariable = email)
 emailEntered.grid(column = 0, row = 1)
 
