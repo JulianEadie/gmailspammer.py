@@ -1,0 +1,1 @@
+text = import message.py
